@@ -11,3 +11,11 @@ Ejecutar los siguientes comando para instalar las dependecias necesarias mediant
 - npm install sweetalert2
 
 - npm install axios
+
+- npm install -D tailwindcss
+
+- npx tailwindcss init
+
+Y por ultimo el comando:
+
+- npm start
